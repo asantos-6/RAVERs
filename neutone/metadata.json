@@ -1,0 +1,67 @@
+{
+    "model_name": "RAVE.example",
+    "model_authors": [
+        "Author Name"
+    ],
+    "model_version": "1.0.0",
+    "model_short_description": "RAVE model trained on xxx sounds.",
+    "model_long_description": "RAVE timbre transfer model trained on xxx sounds. Useful for xxx sounds.",
+    "technical_description": "RAVE model proposed by Caillon, Antoine et al.",
+    "technical_links": {
+        "Paper": "https://arxiv.org/abs/2111.05011",
+        "Code": "https://github.com/acids-ircam/RAVE"
+    },
+    "tags": [
+        "timbre transfer",
+        "RAVE"
+    ],
+    "citation": "Caillon, A., & Esling, P. (2021). RAVE: A variational autoencoder for fast and high-quality neural audio synthesis. arXiv preprint arXiv:2111.05011.",
+    "is_experimental": true,
+    "neutone_parameters": {
+        "p1": {
+            "name": "",
+            "description": "",
+            "type": "knob",
+            "used": "False",
+            "default_value": "0.0"
+        },
+        "p2": {
+            "name": "",
+            "description": "",
+            "type": "knob",
+            "used": "False",
+            "default_value": "0.0"
+        },
+        "p3": {
+            "name": "",
+            "description": "",
+            "type": "knob",
+            "used": "False",
+            "default_value": "0.0"
+        },
+        "p4": {
+            "name": "",
+            "description": "",
+            "type": "knob",
+            "used": "False",
+            "default_value": "0.0"
+        }
+    },
+    "wet_default_value": 1.0,
+    "dry_default_value": 0.0,
+    "input_gain_default_value": 0.5,
+    "output_gain_default_value": 0.5,
+    "is_input_mono": true,
+    "is_output_mono": true,
+    "model_type": "mono-mono",
+    "native_sample_rates": [
+        48000
+    ],
+    "native_buffer_sizes": [
+        2048
+    ],
+    "look_behind_samples": 0,
+    "sdk_version": "1.4.2",
+    "pytorch_version": "2.1.1",
+    "date_created": 1702323340.453892
+}
