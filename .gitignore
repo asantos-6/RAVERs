@@ -1,6 +1,7 @@
 
 # models/GMDrums_v3_29-09_3M_streaming.ts
-notebook/output.wav
+notebooks/output.wav
+data/WAV/**
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
