@@ -4,8 +4,8 @@ In this notebook, we delve into several pre-models for RAVE drum/percussion. Spe
 ## Set up development environment 
 
 ```
-pyenv install 3.11.7
-pyenv virtualenv 3.11.7 raversenv
+pyenv install 3.9.9
+pyenv virtualenv 3.9.9 raversenv
 pip install -r requirements.txt
 ```
 
