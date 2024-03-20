@@ -165,3 +165,12 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 motorhead-ace_of_spades.mp3
+data/
+RAVERs-data.zip
+images/manipulated_df.png
+notebooks/onsets_complex_stereo.mp3
+notebooks/onsets_hfc_stereo.mp3
+images/manipulated_df.png
+notebooks/snare_df.png
+notebooks/taps_df.png
+images/manipulated_df.png
