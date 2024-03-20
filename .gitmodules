@@ -1,0 +1,3 @@
+[submodule "audio-class"]
+	path = audio-class
+	url = https://github.com/asantos-6/audio-class.git
